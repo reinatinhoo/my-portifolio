@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    padding:0;
+    background-color: rgb(128, 228, 128);
+     background-image: url(https://wallpapers-clan.com/wp-content/uploads/2024/04/spider-man-full-moon-fog-dark-gif-preview-desktop-wallpaper.gif);
+    background-size: cover;
+    background-attachment: fixed;
+}

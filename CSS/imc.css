@@ -1,3 +1,14 @@
+body {
+  margin:0;
+  padding:0;
+  background-image: url(https://wallpapers-clan.com/wp-content/uploads/2024/04/spider-man-full-moon-fog-dark-gif-preview-desktop-wallpaper.gif);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+
+
+
 header {
   background-color: rgb(0, 0, 0);
   color: white;
@@ -30,6 +41,7 @@ header h1 {
   text-align: center;
   margin-top: 50px;
   margin-bottom: 90px;
+   background-color:rgba(0,0,0,0.6);
 }
 
 input,
@@ -41,15 +53,14 @@ button {
 }
 
 button {
-  background-color: #ff3300;
+  background-color:  cadetblue;
   color: white;
   border: none;
   cursor: pointer;
 }
 
 button:hover {
-  /* animação mouse */
-  background-color: #0056b3;
+    color:aquamarine;
 }
 
 #resultado {

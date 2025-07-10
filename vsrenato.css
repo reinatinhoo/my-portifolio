@@ -250,7 +250,7 @@ width: auto;
     width: 100%; 
     height: auto; 
     display: block; 
-    margin-left: 250px;
+    margin-left: 200px;
     gap:15px;
     padding: 0  10px 0 10px;
    font-size: 16px;
@@ -258,6 +258,7 @@ width: auto;
 }   
 
  .foto-do-album h3{
+   
     margin:250px;
     font-size: 1.1em;
     white-space: nowrap;/*Não quebra linha automaticamente*/
