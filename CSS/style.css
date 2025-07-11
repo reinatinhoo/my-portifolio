@@ -1,7 +1,6 @@
 body{
     font-family:Arial,sans-serif;
     padding:20px;
-    background-color: rgb(178, 231, 125);
     display:flex;
     align-items: center;
     flex-direction: column;
@@ -9,16 +8,18 @@ body{
     background-image: url(https://wallpapers-clan.com/wp-content/uploads/2024/04/spider-man-full-moon-fog-dark-gif-preview-desktop-wallpaper.gif);
     background-size: cover;
     background-attachment: fixed;
+    color:white;
 }
 h1{
     text-align: center;
+    color:white;
 }
 button {
     margin:20px;
     padding:10px;
     font-size: 16px;
     background-color: cadetblue;
-    color:black;
+    color:white;
     justify-content: center;
     border-color:transparent;
 }
@@ -36,7 +37,7 @@ button:hover {
     flex-direction:column;
     border-radius: 20px;
     padding:20px;
-    
+    margin-top:60px;
 }
 main-content p {
     font-size: 15px;
